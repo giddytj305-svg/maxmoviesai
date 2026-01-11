@@ -5,10 +5,6 @@
       "destination": "/api/maxmovies/route.js"
     },
     {
-      "source": "/api/admin",
-      "destination": "/api/admin/route.js"
-    },
-    {
       "source": "/admin",
       "destination": "/public/admin.html"
     },
